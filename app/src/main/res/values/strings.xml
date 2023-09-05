@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitRecyclerView</string>
+    <string name="product_id">Id Producto</string>
+    <string name="quantity">Cantidad</string>
+</resources>
